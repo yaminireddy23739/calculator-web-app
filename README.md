@@ -16,10 +16,10 @@ The goal of this project was to strengthen logic building, DOM manipulation, and
   - Subtraction
   - Multiplication
   - Division
-- **Mobile-friendly percentage (%) calculation**
-- All Clear (AC) and Backspace functionality
-- Clean and modern user interface
-- Fully responsive design
+  - Mobile-friendly percentage (%) calculation
+  - All Clear (AC) and Backspace functionality
+  - Clean and modern user interface
+  - Fully responsive design
 
 ## 📊 Percentage Logic Behavior
 
