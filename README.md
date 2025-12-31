@@ -1,5 +1,7 @@
 # Calculator Web Application 
 
+This is Day 4 of my 15 Days Web Development Challenge, where I’m building projects from beginner to advanced level.
+
 A responsive calculator web application built using **HTML, CSS, and JavaScript**, with a strong focus on implementing **realistic calculator logic**, especially the percentage (%) operation.
 
 ## 📌 Project Overview
